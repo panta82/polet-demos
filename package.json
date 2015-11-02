@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/panta82/polet-demos/issues"
   },
-  "homepage": "https://github.com/panta82/polet-demos"
+  "homepage": "https://github.com/panta82/polet-demos",
+  "dependencies": {
+    "argparse": "^1.0.3",
+    "lodash": "^3.10.1"
+  }
 }
